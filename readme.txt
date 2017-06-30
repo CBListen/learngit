@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 merge test.
 fix bug.fix bug ok.
 merge test with dev.
+feature test.
